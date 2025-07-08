@@ -5,7 +5,6 @@ This project simulates a complete Business Intelligence (BI) solution for a pers
 
 **Author:** [Alonso Villalobos]  
 **LinkedIn:** [https://www.linkedin.com/in/alonso-villalobos-lara-7297641b/]  
----
 
 ## 🚀 Project Summary
 
@@ -117,9 +116,15 @@ Strategic Questions Answered: How satisfied are our clients, on average? Are cer
 ## 💡 Key Skills & Technologies Demonstrated
 
 **Business Intelligence**: End-to-end project execution from conceptualization to deployment.
+
 **Technical Stack**: Power BI, Power Query (M Language), DAX.
+
 **ETL**: Proficient in data extraction, robust data transformation, data cleaning, and data loading best practices.
+
 **Data Modeling**: Expert in designing and implementing performant Star Schemas for analytics.
+
 **Advanced DAX**: Ability to write complex, context-aware measures that encapsulate critical business logic.
+
 **Data Visualization & UI/UX**: A strong eye for designing dashboards that are not only visually appealing but also intuitive, insightful, and actionable.
+
 **Business Acumen**: Demonstrated ability to understand the specific needs of a professional services business and translate them into technical BI solutions.
