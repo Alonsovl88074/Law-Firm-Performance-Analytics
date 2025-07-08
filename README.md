@@ -95,21 +95,25 @@ The final phase was to design a 4-page report where each page serves as a dedica
 
 ### Dashboard 1: Executive Financial Overview
 ![Executive Financial Overview](snapshots/dashboard1.png)
+
 Purpose: To provide partners with a clear, high-level view of the firm's financial health.
 Strategic Questions Answered: How are we performing against our financial goals? Who are our most profitable attorneys and what are our most profitable case types?
 
 ### Dashboard 2: Case Management & Operations
 ![Case Management & Operations](snapshots/dashboard2.png)
+
 Purpose: To give operational leads insight into case flow, efficiency, and attorney workload.
 Strategic Questions Answered: Where are our operational bottlenecks? Is our staff's workload balanced? How long does it take us to settle different types of cases?
 
 ### Dashboard 3: Marketing & Client Acquisition
 ![Marketing & Client Acquisition](snapshots/dashboard3.png)
+
 Purpose: To measure the effectiveness and ROI of marketing efforts.
 Strategic Questions Answered: Which marketing channels are driving the most valuable clients? What is our client acquisition cost (CAC) and how does it compare across channels?
 
 ### Dashboard 4: Client Satisfaction & Service Quality
 ![Client Satisfaction & Service Quality](snapshots/dashboard4.png)
+
 Purpose: To quantify client happiness and link it to operational performance.
 Strategic Questions Answered: How satisfied are our clients, on average? Are certain attorneys or case types associated with higher satisfaction? Does resolving a case faster make clients happier?
 
