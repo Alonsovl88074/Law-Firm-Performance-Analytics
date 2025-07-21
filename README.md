@@ -8,7 +8,7 @@ This project simulates a complete Business Intelligence (BI) solution for a pers
 
 ## 🚀 Project Summary
 
-This repository documents the end-to-end creation of a comprehensive Business Intelligence solution for a fictional personal injury law firm. The project's goal was to move the firm from a state of scattered, raw data to a centralized, interactive analytics ecosystem.
+This repository documents the end-to-end creation of a comprehensive Business Intelligence solution for a real personal injury law firm. The project's goal was to move the firm from a state of scattered, raw data to a centralized, interactive analytics ecosystem.
 
 As the sole BI Developer, I was responsible for the entire project lifecycle: from defining business requirements and preparing the data, through ETL, data modeling, DAX measure creation, and finally, designing a suite of four strategic dashboards in **Microsoft Power BI**. This project showcases a deep understanding of both the technical BI stack and the specific business drivers of a professional services firm.
 
